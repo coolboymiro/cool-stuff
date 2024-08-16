@@ -1,0 +1,33 @@
+body{
+
+       margin: 0;
+       padding: 0;
+       background: linear-gradient(to top,blue,white);
+
+
+
+
+}
+.logo{display: block;
+padding: 10px;
+
+}
+
+section{
+
+border: 10px blue dotted;
+margin-bottom: 20px;
+border-radius: 30px;
+text-align: center;
+
+
+
+}
+h1{
+
+
+    text-align: center;
+
+
+
+}

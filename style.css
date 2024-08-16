@@ -1,0 +1,56 @@
+header{
+    background-color: blue;
+
+font-size: 20px;
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+padding:  10px   ;
+
+
+}
+
+ul{
+    list-style-type: none;
+
+
+
+}
+li{
+
+    display: inline-block;
+
+
+
+}
+
+ul a{
+
+        text-decoration: none;
+        color: white;
+        margin-right: 10px;
+
+}
+section{
+
+border: 10px dotted red;
+margin-bottom: 10px; ;
+padding: 10px;;
+
+
+}
+article{
+
+    background-color: aqua;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+
+image{
+
+    width: 300px;
+    height: 300px;
+
+
+}
